@@ -1,0 +1,14 @@
+| Class             | Fungsi              |
+| ----------------- | ------------------- |
+| `min-h-screen`    | tinggi full layar   |
+| `bg-gray-100`     | background abu      |
+| `p-6`             | padding             |
+| `grid`            | layout grid         |
+| `grid-cols-3`     | 3 kolom             |
+| `gap-5`           | jarak antar card    |
+| `rounded-xl`      | sudut rounded       |
+| `shadow-md`       | bayangan            |
+| `hover:scale-105` | membesar saat hover |
+| `transition-all`  | animasi smooth      |
+| `text-green-700`  | warna teks          |
+| `font-bold`       | teks tebal          |
